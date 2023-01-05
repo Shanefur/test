@@ -1,1 +1,1 @@
-print("I am a boy")
+print("you are of male sex")
